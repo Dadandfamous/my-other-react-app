@@ -11,6 +11,9 @@ class App extends Component {
           <p>
             Edit <code>src/App.js</code> and save Sinterklaas to reload.
           </p>
+          <p>
+          Welcome to Codaisseur
+        </p>
           <a
             className="App-link"
             href="https://reactjs.org"
